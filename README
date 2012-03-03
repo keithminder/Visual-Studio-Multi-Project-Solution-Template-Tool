@@ -1,0 +1,13 @@
+This tool provides any easy means to create new Visual Studio solutions from an existing Visual Studio solution that serves as a template for other solutions.
+
+After wrestling around with m$'s project template stuff, I had a light bulb moment, realizing that we had WAY overcomplicated matters.
+
+Hopefully, I haven't oversimplified them.
+
+Currently, it prompts the user to input necessary values.
+
+Command line argument support will be added in the next release!
+
+Feel free to roll your sleeves up and dig in!
+
+This is my first open source project and my first time using get hub too.  Slap my wrist as necessary!
