@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VSSolutionTemplateTool", "ConsoleApplication1\VSSolutionTemplateTool.csproj", "{BE9DF6B1-E27A-43EF-8475-019CDBBACE58}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VSSolutionTemplateTool", "VSSolutionTempateTool\VSSolutionTemplateTool.csproj", "{BE9DF6B1-E27A-43EF-8475-019CDBBACE58}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
