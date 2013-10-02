@@ -1,7 +1,0 @@
-C:\TworkTechnology\Visual-Studio-Multi-Project-Solution-Template-Tool\VSSolutionTempateTool\bin\Debug\VSSolutionTemplateTool.exe
-C:\TworkTechnology\Visual-Studio-Multi-Project-Solution-Template-Tool\VSSolutionTempateTool\bin\Debug\VSSolutionTemplateTool.pdb
-C:\TworkTechnology\Visual-Studio-Multi-Project-Solution-Template-Tool\VSSolutionTempateTool\obj\x86\Debug\VSSolutionTemplateTool.csprojResolveAssemblyReference.cache
-C:\TworkTechnology\Visual-Studio-Multi-Project-Solution-Template-Tool\VSSolutionTempateTool\obj\x86\Debug\VSSolutionTemplateTool.exe
-C:\TworkTechnology\Visual-Studio-Multi-Project-Solution-Template-Tool\VSSolutionTempateTool\obj\x86\Debug\VSSolutionTemplateTool.pdb
-C:\TworkTechnology\Visual-Studio-Multi-Project-Solution-Template-Tool\VSSolutionTemplateTool\obj\x86\Debug\VSSolutionTemplateTool.exe
-C:\TworkTechnology\Visual-Studio-Multi-Project-Solution-Template-Tool\VSSolutionTemplateTool\obj\x86\Debug\VSSolutionTemplateTool.pdb
